@@ -104,7 +104,7 @@ vibe-hack-2026/
 
 ## 🌐 Live Demo
 
-**Live Website:**  
+data-science-club-task-2-88jms1ozy.vercel.app  
 
 ---
 
