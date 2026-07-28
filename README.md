@@ -138,4 +138,4 @@ VIT Bhopal University
 
 ## 📄 License
 
-This project was developed for educational and recruitment purposes as part of the **Data Science Club (DSC) Software Development Team Recruitment – Round 1 Assignment**.
+This project was developed for educational and recruitment purposes as part of the **Data Science Club (DSC) Software Development Team Recruitment**.
